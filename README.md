@@ -22,7 +22,7 @@ A deep learning model that detects synthetic (deepfake) audio with 98.65% accura
 - Dataset size: 176,000 audio files
 - Binary classification: Real vs Fake audio
 - Format: 16kHz, 5-second clips (.wav/.mp3)
-- 
+
 ## Training Details
 - Optimizer: Adam
 - Loss: Categorical Crossentropy
